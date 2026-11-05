@@ -26,3 +26,12 @@ Soy ___Ariana Moreira___ estudiante de la carrera de Ingenieria en Computación 
 | Adaptabilidad | Python |
 |Trabajo en Equipo| SQL |
 | Comunicación | HTML |
+
+--- 
+
+> ### Contáctame 
+Si gustas conectar conmigo, compartir conocimientos o colaborar conmigo. Estas son mis redes sociales:
+* **LinkedIn:** [Ariana Moreira Rodriguez](https://www.linkedin.com/in/ariana-moreira-rodriguez-a6733b278/)
+* **GitHub:** [Ariana Moreira](https://github.com/Ariana-Moreira)
+* **Instagram:** [Michelle Rodriguez](https://www.instagram.com/ariana_michelle23?obrf=enY2ZjVhZHdmbmRv)
+* **Gmail:** arianamoreira232005@gmail.com
