@@ -16,3 +16,13 @@ Soy ___Ariana Moreira___ estudiante de la carrera de Ingenieria en Computación 
 * Ciberseguridad
 * Mantenimiento y administración de servidores
 * Intercambio cultural
+
+---
+
+> ### Habilidades ###
+|Blandas | Lenguajes |
+| --- | --- |
+| Pensamiento crítico | Java|
+| Adaptabilidad | Python |
+|Trabajo en Equipo| SQL |
+| Comunicación | HTML |
