@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**Ariana-Moreira/Ariana-Moreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Bienvenidos a mi perfil 👀
+### Sobre mi ###
+![Sherlock](https://i.redd.it/4htr9dyecy411.png)
+Soy ___Ariana Moreira___ estudiante de la carrera de Ingenieria En Computación en ESPOL.
+* Soy una persona muy curiosa
+* Me encanta aprender cosas nuevas.
+* Sherlock Holmes
+* Resolver rompecabezas y encriptaciones
+* Leer
+* Aprender poco a poco idiomas
