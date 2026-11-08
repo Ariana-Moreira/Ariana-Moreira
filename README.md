@@ -28,11 +28,17 @@ Soy ___Ariana Moreira___ estudiante de la carrera de Ingenieria en Computación 
 | Comunicación | HTML |
 
 --- 
-> ## Proyectos Destacados  ##
+> ## Últimos proyectos ##
+### Estructuración y guía del portafolio ###
+Repositorio con archivo md que muestra el análisis de diferentes repositorios y un esquema de como se desea ver el portafolio de identidad digital.
+* **Repositorio:** [Ir al repositorio](https://github.com/Ariana-Moreira/Portafolio-.git)
+
 ### Explorando la cultura con la web 👥 ###
 Página web que muestra la evolución de los juegos de antes con los de ahora, con información obtenida por medio de entrevistas a personas de diferentes edades y sus experiencias.
 * **Repositorio:** [Ir al repositorio](https://github.com/JacquelineCuenca/Explorando-la-cultura-con-la-web.git)
 * **Visualización:** [Visitar](https://jacquelinecuenca.github.io/Explorando-la-cultura-con-la-web/)
+
+---
 
 > ## Contáctame ##
 Si gustas conectar conmigo, compartir conocimientos o colaborar conmigo. Estas son mis redes sociales:
