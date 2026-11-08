@@ -29,6 +29,7 @@ Soy ___Ariana Moreira___ estudiante de la carrera de Ingenieria en Computación 
 
 --- 
 > ## Últimos proyectos ##
+
 ### Estructuración y guía del portafolio ###
 Repositorio con archivo md que muestra el análisis de diferentes repositorios y un esquema de como se desea ver el portafolio de identidad digital.
 * **Tecnologías utilizadas:** Markdown, GitHub.
